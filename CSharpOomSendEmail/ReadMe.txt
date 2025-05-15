@@ -1,0 +1,1 @@
+﻿Note:  This sample references the Outlook Object Model (Microsoft.Office.Interop.Outlook) 2016 PIA.
